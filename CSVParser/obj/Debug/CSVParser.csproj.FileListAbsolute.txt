@@ -1,0 +1,8 @@
+C:\UnityProjects\CSVParser\CSVParser\bin\Debug\CSVParser.exe.config
+C:\UnityProjects\CSVParser\CSVParser\bin\Debug\CSVParser.exe
+C:\UnityProjects\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+C:\UnityProjects\CSVParser\CSVParser\obj\Debug\CSVParser.csprojResolveAssemblyReference.cache
+C:\UnityProjects\CSVParser\CSVParser\obj\Debug\CSVParser.Properties.Resources.resources
+C:\UnityProjects\CSVParser\CSVParser\obj\Debug\CSVParser.csproj.GenerateResource.Cache
+C:\UnityProjects\CSVParser\CSVParser\obj\Debug\CSVParser.exe
+C:\UnityProjects\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
